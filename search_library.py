@@ -6,11 +6,11 @@ import urllib
 import time
 
 # API Information
-CONSUMER_KEY = 'chQHQQNMvcfswX9dEu3IXA'
-CONSUMER_SECRET = 'wCUQn3dpg9UGB1a2ZPXPVzz0edpeVxYaNDAiaVvU'
-ACCESS_TOKEN = '7aemoVRKkcygkdgoYsYvJw'
-ACCESS_TOKEN_SECRET = 'AN8P4sJMSlPpWI1C2HqfjNnLXnZlsjPN06V7trw'
-usr_id = '2318715'
+CONSUMER_KEY = ''
+CONSUMER_SECRET = ''
+ACCESS_TOKEN = ''
+ACCESS_TOKEN_SECRET = ''
+usr_id = ''
 
 #########################################################################
 ## FUNCTIONS
